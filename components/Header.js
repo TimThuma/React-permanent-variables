@@ -1,5 +1,4 @@
 // HEADER COMPONENT
-// contains some dynamic routing
 
 import React from 'react';
 import { Menu } from 'semantic-ui-react';
